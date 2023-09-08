@@ -34,7 +34,7 @@ body {
   transition: color 0.5s, text-shadow 0.5s;
 }
 
-.footer {
+.copyright {
   margin-top: auto;
   font-size: 0.9rem;
   color: #ccc;
